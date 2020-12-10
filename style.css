@@ -11,13 +11,13 @@
 .bulb-off {
   width: 265px;
   height: 400px;
-  background: url("/img/lightoff.png") no-repeat;
+  background: url("./img/lightoff.png") no-repeat;
   margin: auto;
 }
 
 .bulb-on {
   width: 265px;
   height: 400px;
-  background: url("/img/lighton.png") no-repeat;
+  background: url("./img/lighton.png") no-repeat;
   margin: auto;
 }
